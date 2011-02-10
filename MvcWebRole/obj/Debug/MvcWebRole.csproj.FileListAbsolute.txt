@@ -1,0 +1,11 @@
+D:\Official\Hudson\WindowsAzure\MvcWebRole\bin\MvcWebRole.dll
+D:\Official\Hudson\WindowsAzure\MvcWebRole\bin\MvcWebRole.pdb
+D:\Official\Hudson\WindowsAzure\MvcWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Official\Hudson\WindowsAzure\MvcWebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Official\Hudson\WindowsAzure\MvcWebRole\bin\System.Web.Mvc.dll
+D:\Official\Hudson\WindowsAzure\MvcWebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Official\Hudson\WindowsAzure\MvcWebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Official\Hudson\WindowsAzure\MvcWebRole\bin\System.Web.Mvc.xml
+D:\Official\Hudson\WindowsAzure\MvcWebRole\obj\Debug\ResolveAssemblyReference.cache
+D:\Official\Hudson\WindowsAzure\MvcWebRole\obj\Debug\MvcWebRole.dll
+D:\Official\Hudson\WindowsAzure\MvcWebRole\obj\Debug\MvcWebRole.pdb

@@ -1,0 +1,8 @@
+D:\Official\Hudson\WindowsAzure\MvcWebRole.Tests\bin\Debug\MvcWebRole.Tests.dll.config
+D:\Official\Hudson\WindowsAzure\MvcWebRole.Tests\bin\Debug\MvcWebRole.Tests.dll
+D:\Official\Hudson\WindowsAzure\MvcWebRole.Tests\bin\Debug\MvcWebRole.Tests.pdb
+D:\Official\Hudson\WindowsAzure\MvcWebRole.Tests\bin\Debug\MvcWebRole.dll
+D:\Official\Hudson\WindowsAzure\MvcWebRole.Tests\bin\Debug\MvcWebRole.pdb
+D:\Official\Hudson\WindowsAzure\MvcWebRole.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Official\Hudson\WindowsAzure\MvcWebRole.Tests\obj\Debug\MvcWebRole.Tests.dll
+D:\Official\Hudson\WindowsAzure\MvcWebRole.Tests\obj\Debug\MvcWebRole.Tests.pdb
