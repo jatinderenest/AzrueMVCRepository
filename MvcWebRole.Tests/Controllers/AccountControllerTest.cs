@@ -22,8 +22,8 @@ namespace MvcWebRole.Tests.Controllers
             // Arrange
             AccountController controller = GetAccountController();
 
-            // Act
-            ActionResult result = controller.ChangePassword();
+            // Act Have a one
+            ActionResult result = controller.ChangePassword()
 
             // Assert
             Assert.IsInstanceOfType(result, typeof(ViewResult));
