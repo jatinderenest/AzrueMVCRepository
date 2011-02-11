@@ -19,7 +19,7 @@ namespace MvcWebRole.Tests.Controllers
         [TestMethod]
         public void ChangePassword_Get_ReturnsView()
         {
-            // Arrange
+            // Arrange Hey i made changes here
             AccountController controller = GetAccountController();
 
             // Act Have a one
